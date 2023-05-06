@@ -1,5 +1,4 @@
 <div align="center">
-<br />
 <h1>Blogs</h1>
 <p>
 Contents related to my blogs
